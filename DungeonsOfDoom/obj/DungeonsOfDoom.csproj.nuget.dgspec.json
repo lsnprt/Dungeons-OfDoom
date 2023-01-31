@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programmering\\AWacademy\\DungeonsOfDoom\\DungeonsOfDoom\\DungeonsOfDoom.csproj": {}
+    "/Users/wavephoria/Documents/GitHub/Dungeons-OfDoom/DungeonsOfDoom/DungeonsOfDoom.csproj": {}
   },
   "projects": {
-    "D:\\Programmering\\AWacademy\\DungeonsOfDoom\\DungeonsOfDoom\\DungeonsOfDoom.csproj": {
+    "/Users/wavephoria/Documents/GitHub/Dungeons-OfDoom/DungeonsOfDoom/DungeonsOfDoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programmering\\AWacademy\\DungeonsOfDoom\\DungeonsOfDoom\\DungeonsOfDoom.csproj",
+        "projectUniqueName": "/Users/wavephoria/Documents/GitHub/Dungeons-OfDoom/DungeonsOfDoom/DungeonsOfDoom.csproj",
         "projectName": "DungeonsOfDoom",
-        "projectPath": "D:\\Programmering\\AWacademy\\DungeonsOfDoom\\DungeonsOfDoom\\DungeonsOfDoom.csproj",
-        "packagesPath": "C:\\Users\\KuRioS\\.nuget\\packages\\",
-        "outputPath": "D:\\Programmering\\AWacademy\\DungeonsOfDoom\\DungeonsOfDoom\\obj\\",
+        "projectPath": "/Users/wavephoria/Documents/GitHub/Dungeons-OfDoom/DungeonsOfDoom/DungeonsOfDoom.csproj",
+        "packagesPath": "/Users/wavephoria/.nuget/packages/",
+        "outputPath": "/Users/wavephoria/Documents/GitHub/Dungeons-OfDoom/DungeonsOfDoom/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KuRioS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/wavephoria/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

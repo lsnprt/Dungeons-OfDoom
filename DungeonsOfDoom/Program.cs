@@ -14,6 +14,7 @@ namespace DungeonsOfDoom
         
         static void Main(string[] args)
         {
+            Console.Clear();
             Program program = new();
             program.Play();
         }
@@ -50,7 +51,7 @@ namespace DungeonsOfDoom
 
                     int ChanceOfSpawningMonsterOrItem = Random.Shared.Next(1, 100 + 1);
                     if (ChanceOfSpawningMonsterOrItem < 10)
-                        rooms[row, column].MonsterInRoom = new Monster("Skeleton", 30);
+                        rooms[row, column].MonsterInRoom = new Slime();
                     else if (ChanceOfSpawningMonsterOrItem < 20)
                         rooms[row, column].ItemInRoom = new Item("Sword");
                 }
