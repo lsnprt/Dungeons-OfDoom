@@ -11,7 +11,7 @@ Klassversionen av Dungeons of Doom!
 3. Item abilities. T.ex när en spelare har ett svärd equipped ska man få svärdets unika ability "Slash". Hammare får "Bash" osv osv..
 4. Fler items
 5. Item Attributes. T.ex Sköld ger extra defence
-6. Player attributes. T.ex x strength ger mer dmg. Typ (Strength * 2.5 = damage). Något sånt kanske?
+6. Player attributes. T.ex x strength ger mer dmg. Typ (Strength * 2.5 = damage). Något sånt kanske? - JEAN - Försöker mig gärna på denna
 7. Fler Monster
 8. Health Potion!
 
