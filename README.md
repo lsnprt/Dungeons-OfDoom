@@ -15,6 +15,7 @@ Klassversionen av Dungeons of Doom!
 7. Fler Monster
 8. Monster class med Arv! Varje monster typ ska ärva Monsters egenskaper och sedan ha sina egna. T.ex skeleton ärver Monster klassen men har egna attributes som t.ex mer HP!
 10. Health Potion!
+11. Sandro Level System, olika nivåer som blir progressivt större / med svårare enemies
 
 
 
