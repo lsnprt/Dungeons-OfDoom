@@ -1,0 +1,15 @@
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.exe
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.deps.json
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.runtimeconfig.json
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.dll
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\bin\Debug\net7.0\DungeonsOfDoom.pdb
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.csproj.AssemblyReference.cache
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.AssemblyInfoInputs.cache
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.AssemblyInfo.cs
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.csproj.CoreCompileInputs.cache
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.dll
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\refint\DungeonsOfDoom.dll
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.pdb
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\DungeonsOfDoom.genruntimeconfig.cache
+D:\Programmering\AWacademy\DungeonsOfDoom\DungeonsOfDoom\obj\Debug\net7.0\ref\DungeonsOfDoom.dll

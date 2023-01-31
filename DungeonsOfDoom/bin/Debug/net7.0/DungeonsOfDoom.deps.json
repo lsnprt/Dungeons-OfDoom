@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DungeonsOfDoom/1.0.0": {
+        "runtime": {
+          "DungeonsOfDoom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DungeonsOfDoom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
