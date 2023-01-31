@@ -12,4 +12,8 @@ Klassversionen av Dungeons of Doom!
 4. Player attributes
 5. Fler Monster
 6. Health Potion!
-7. 
+
+
+
+# WPF Migration
+1. Om någon vill ge sig på detta är dem välkomna! Tycker dock vi ska kämpa med att utveckla önskelistan först
