@@ -3,7 +3,6 @@ Klassversionen av Dungeons of Doom!
 
 OBS Regler -
 1. Håll tydlig namngivning. Hellre långa tydliga namn än korta förvirrande!
-2. Använd gärna Const strings på repeterande "Magiska" strängar
 
 
 Önskelista -
