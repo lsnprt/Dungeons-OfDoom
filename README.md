@@ -1,11 +1,11 @@
 # Dungeons-OfDoom
 Klassversionen av Dungeons of Doom!
 
-# OBS Regler -
+# OBS Regler
 1. Håll tydlig namngivning. Hellre långa tydliga namn än korta förvirrande!
 
 
-# Önskelista -
+# Önskelista
 1. Combat
 2. Player skills
 3. Item abilities. T.ex när en spelare har ett svärd equipped ska man få svärdets unika ability "Slash". Hammare får "Bash" osv osv..
