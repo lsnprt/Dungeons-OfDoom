@@ -12,7 +12,7 @@ Klassversionen av Dungeons of Doom!
 4. Fler items
 5. Item Attributes. T.ex Sköld ger extra defence
 6. **Jean-Christophe -** Player attributes. T.ex x strength ger mer dmg. Typ (Strength * 2.5 = damage). Något sånt kanske?
-7. **Jens - **Fler Monster
+7. **Jens** - Fler Monster
 8. Monster class med Arv! Varje monster typ ska ärva Monsters egenskaper och sedan ha sina egna. T.ex skeleton ärver Monster klassen men har egna attributes som t.ex mer HP!
 10. Health Potion!
 
